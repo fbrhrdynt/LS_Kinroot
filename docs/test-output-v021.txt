@@ -1,0 +1,70 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> kinroot@0.2.1 test
+> node --test tests/*.test.js
+
+✔ fresh installation is empty without seeding demonstration people or relationships (2.476137ms)
+✔ tree subtitle is profile information, never the example letter ID (0.296266ms)
+✔ stepchild origin note uses biological parent name rather than fixture code G (0.672923ms)
+✔ cloud rejects unauthenticated data reads and writes, session reports no account (10.663804ms)
+✔ new family exists in SQL and appears only in owner list (8.977485ms)
+✔ unrelated user cannot read, overwrite, invite, enumerate members or read invitations (3.933271ms)
+✔ targeted editor invite joins, retains only token hash, and can edit family (15.597755ms)
+✔ invitation cannot be accepted by wrong email (2.414525ms)
+✔ viewer can read but cannot mutate, invite or manage roles (3.451246ms)
+✔ owner can change member role and revoke membership while owner role is protected (3.106466ms)
+✔ revoked and expired invites fail without membership creation (5.589404ms)
+✔ invitation is single-use, including replay from another user (3.955334ms)
+✔ stale simultaneous edits return conflict without last-writer overwrite (2.728327ms)
+✔ invalid biological cycles cannot replace valid cloud family (2.454675ms)
+✔ writes reject missing or foreign origin (0.607274ms)
+✔ promotional fixture has 16 distinct portraits and complete fictional stories (0.712232ms)
+✔ cloud photo uploads persist in bucket and reads enforce family membership (1.548451ms)
+✔ fake image content is rejected before writing cloud bucket (1.378375ms)
+✔ oversized cloud JSON is rejected before state mutation (6.428908ms)
+✔ canonical demo contains 8 unique people; explicit GH and step CH only (2.499152ms)
+✔ both couples occupy same row and adjacent cards (1.892549ms)
+✔ AB midpoint trunk has precisely C D E (1.059145ms)
+✔ CG trunk contains I, never H; step edge originates C (0.599673ms)
+✔ all connector segments orthogonal, deterministic, renderer pure (1.121949ms)
+✔ canonical connector routes never cross any card interior (0.841817ms)
+✔ unknown co-parent never invented; one-parent biological starts from parent card (0.74397ms)
+✔ marriage never infers biological parent (0.628436ms)
+✔ adoption guardian and unknown are distinct routed edges (2.43763ms)
+✔ unconfirmed biological is visibly unknown and excluded from couple trunk (1.963221ms)
+✔ remarriage preserves prior child and unique canonical person (0.825032ms)
+✔ cousin marriage is supported without duplicate records or ancestry cycles (1.711196ms)
+✔ biological ancestry cycle rejected (0.649708ms)
+✔ self-parenting and self-partnership rejected (0.410328ms)
+✔ dangling parent references rejected (0.377859ms)
+✔ duplicate persons and duplicate facts rejected (1.278155ms)
+✔ duplicate relationship IDs rejected (0.246361ms)
+✔ delete cascades only affected relationships (0.319922ms)
+✔ JSON round trip preserves all profile and relationship fields (0.397539ms)
+✔ empty family is valid and renders finite bounds (0.202705ms)
+✔ unsafe photo URLs and corrupt metadata rejected (0.296836ms)
+✔ unsupported schema and oversized import rejected (0.48514ms)
+✔ deceased date cannot precede birth (0.182515ms)
+✔ multiple spouse crosslinks never pass through the intervening spouse card (0.651731ms)
+✔ prototype-shaped person IDs remain safe canonical identifiers (0.389145ms)
+✔ inherited object keys are not accepted as relationship types (0.279441ms)
+✔ nonbiological social cycles do not inflate tree to unbounded generations (0.729798ms)
+✔ visibility router avoids a card blocking a straight segment (2.48486ms)
+✔ visibility router preserves unobstructed orthogonal route (0.183025ms)
+✔ card boundary anchors do not count as card interior crossings (0.216145ms)
+✔ fresh storage seeds once; refresh preserves new member and explicit relations (3.902214ms)
+✔ malformed saved JSON is not replaced by demo (0.486081ms)
+✔ invalid schema and ambiguous historical data preserved without silent migration (0.330087ms)
+✔ backup is previous complete state, including metadata (1.590875ms)
+✔ invalid candidate never writes storage (0.519231ms)
+✔ quota failure preserves committed primary data (0.767045ms)
+✔ storage security errors propagate for visible recovery UI (0.218219ms)
+✔ new UUIDs work without randomUUID and have unique stable format (4.418642ms)
+ℹ tests 57
+ℹ suites 0
+ℹ pass 57
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 214.805977
